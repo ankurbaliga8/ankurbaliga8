@@ -13,15 +13,15 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 👨‍💻 About Me
 
 I'm a Master's student in Computer Science at Northeastern University (Graduating May 2025), with hands-on experience in **AI development, full-stack engineering**, and **cloud-native applications**. From building RAG systems and AI agents to optimizing backend APIs and web interfaces, I aim to blend performance and usability in every line of code.
 
 ---
 
-### ⚒️ Tech Stack
+## ⚒️ Tech Stack
 
-#### 💻 Programming & Tools
+### 💻 Programming & Tools
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white)
@@ -29,7 +29,7 @@ I'm a Master's student in Computer Science at Northeastern University (Graduatin
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
-#### 🌐 Frontend
+### 🌐 Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -37,7 +37,7 @@ I'm a Master's student in Computer Science at Northeastern University (Graduatin
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
-#### 🔙 Backend
+### 🔙 Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
@@ -46,7 +46,7 @@ I'm a Master's student in Computer Science at Northeastern University (Graduatin
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-#### ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
@@ -54,7 +54,7 @@ I'm a Master's student in Computer Science at Northeastern University (Graduatin
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 
-#### 🧠 AI/ML
+### 🧠 AI/ML
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-7F3FBF?style=for-the-badge&logo=pinecone&logoColor=white)
@@ -62,23 +62,23 @@ I'm a Master's student in Computer Science at Northeastern University (Graduatin
 
 ---
 
-### 📈 My Projects
+## 📈 My Projects
 
-#### 🛍️ [ShopEZ AI Agent](https://github.com/ankurbaliga8/ShopEZ-AI-Agent)
+### 🛍️ [ShopEZ AI Agent](https://github.com/ankurbaliga8/ShopEZ-AI-Agent)
 > *React, Playwright, FastAPI, OpenAI*  
 Built a fully autonomous AI agent that places orders on Amazon & Walmart hands-free, using GPT-powered chat and browser automation.
 
-#### 🧑‍🏫 [Kanbas – LMS Web App](https://github.com/ankurbaliga8/kanbas-node-server-app)
+### 🧑‍🏫 [Kanbas – LMS Web App](https://github.com/ankurbaliga8/kanbas-node-server-app)
 > *React, Node.js, Redux, MongoDB*  
 Developed a Canvas-like Learning Management System supporting real-time updates, quizzes, and course dashboards.
 
-#### 💸 [Smart AI Bill Splitter](https://github.com/ankurbaliga8/SmartBill-Splitter)
+### 💸 [Smart AI Bill Splitter](https://github.com/ankurbaliga8/SmartBill-Splitter)
 > *React, AWS Textract, OpenAI, TailwindCSS*  
 AI-powered app that scans bills and splits them intelligently using GPT models, reducing user effort and parsing errors.
 
 ---
 
-### 🎓 Experience Highlights
+## 🎓 Experience Highlights
 
 - **Software Developer** @ Conwave IT Solutions  
   ➤ Built full-stack web features and APIs improving performance by 30%+
@@ -94,15 +94,13 @@ AI-powered app that scans bills and splits them intelligently using GPT models, 
 
 ---
 
-### 🧾 Certifications
+## 🧾 Certifications
 
 - AWS Certified Cloud Practitioner (June 2024)
 
 ---
 
-### 📫 Contact Me
-
-Feel free to connect or drop me an email!
+## 📫 Contact Me
 
 📍 Arlington, VA  
 📧 ankurbaliga8088@gmail.com  
