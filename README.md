@@ -21,54 +21,59 @@ I'm a Master's student in Computer Science at Northeastern University (Graduatin
 
 ### ⚒️ Tech Stack
 
-#### 💻 Programming
-![Java](https://img.shields.io/badge/Java-blue?logo=java)
-![Python](https://img.shields.io/badge/Python-yellow?logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?logo=typescript)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
+#### 💻 Programming & Tools
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23f89820?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)
 
 #### 🌐 Frontend
-![React](https://img.shields.io/badge/React-61DAFB?logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css)
-![Material-UI](https://img.shields.io/badge/MUI-007FFF?logo=mui)
-![Redux](https://img.shields.io/badge/Redux-764ABC?logo=redux)
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Material-UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
 
 #### 🔙 Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-black?logo=express)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman)
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 #### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
-![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel&logoColor=white)
 
 #### 🧠 AI/ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai)
-![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900?logo=amazon-aws)
-![Pinecone](https://img.shields.io/badge/Pinecone-7F3FBF?logo=pinecone)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-7F3FBF?style=for-the-badge&logo=pinecone&logoColor=white)
+![AWS Textract](https://img.shields.io/badge/AWS_Textract-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ---
 
 ### 📈 My Projects
 
-#### 🛍️ [ShopEZ AI Agent](https://github.com/ankurbaliga8)
+#### 🛍️ [ShopEZ AI Agent](https://github.com/ankurbaliga8/ShopEZ-AI-Agent)
 > *React, Playwright, FastAPI, OpenAI*  
 Built a fully autonomous AI agent that places orders on Amazon & Walmart hands-free, using GPT-powered chat and browser automation.
 
-#### 🧑‍🏫 Kanbas – LMS Web App
+#### 🧑‍🏫 [Kanbas – LMS Web App](https://github.com/ankurbaliga8/kanbas-node-server-app)
 > *React, Node.js, Redux, MongoDB*  
 Developed a Canvas-like Learning Management System supporting real-time updates, quizzes, and course dashboards.
 
-#### 💸 Smart AI Bill Splitter
-> *AWS Textract, OpenAI, TailwindCSS*  
+#### 💸 [Smart AI Bill Splitter](https://github.com/ankurbaliga8/SmartBill-Splitter)
+> *React, AWS Textract, OpenAI, TailwindCSS*  
 AI-powered app that scans bills and splits them intelligently using GPT models, reducing user effort and parsing errors.
 
 ---
